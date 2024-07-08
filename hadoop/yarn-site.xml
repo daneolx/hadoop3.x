@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<!--
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License. See accompanying LICENSE file.
+-->
+<configuration>
+
+<!-- Site specific YARN configuration properties -->
+    <property>
+      <name>yarn.resourcemanager.hostname</name>
+      <value>172.27.251.21</value> <!-- Debe ser la dirección IP o hostname del ResourceManager -->
+    </property>
+   
+    <property>
+    	<name>yarn.nodemanager.resource.memory-mb</name>
+    	<value>69632</value>
+    	<description>Physical memory, in MB, to be made available to running containers.</description>
+    </property>
+    <property>
+    	<name>yarn.scheduler.maximum-allocation-mb</name>
+    	<value>350000</value> 
+    </property>
+    <property>
+	<name>yarn.nodemanager.resource.cpu-vcores.ratio</name>
+	<value>4.0</value>
+    	<description>Ratio of CPU cores to physical memory when launching containers.</description>
+    </property>
+
+    <property>
+    	<name>yarn.nodemanager.resource.memory-mb.minimum</name>
+    	<value>5120</value>
+    	<description>Minimum limit of memory to allocate to each container request at the NodeManager, in MBs.</description>
+    </property>
+    <property>
+	<name>yarn.nodemanager.resource.memory-mb.maximum</name>
+	<value>90000</value>
+    	<description>Maximum limit of memory to allocate to each container request at the NodeManager, in MBs.</description>
+    </property>
+   <property>
+    <name>yarn.nodemanager.vmem-check-enabled</name>
+    <value>false</value>
+    <description>Disable virtual memory limits enforcement for containers.</description>
+</property>
+
+<property>
+    <name>yarn.nodemanager.vmem-pmem-ratio</name>
+    <value>4.2</value>
+    <description>Ratio between virtual memory to physical memory when launching containers.</description>
+</property>
+
+<property>
+    <name>yarn.nodemanager.pmem-check-enabled</name>
+    <value>true</value>
+    <description>Enable physical memory limits enforcement for containers.</description>
+</property>
+
+<property>
+    <name>yarn.nodemanager.vcores-pmem-ratio</name>
+    <value>4.0</value>
+    <description>Ratio between number of vCores to physical memory when launching containers.</description>
+</property>
+
+<property>
+    <name>yarn.nodemanager.resource.cpu-vcores</name>
+    <value>80</value>
+    <description>Total number of CPU cores to be made available to YARN containers on each node.</description>
+</property>
+
+<property>
+    <name>yarn.scheduler.maximum-allocation-vcores</name>
+    <value>80</value> <!-- Ajusta este valor según el total de vCores en tu clúster -->
+</property>
+
+<property>
+    <name>yarn.nodemanager.resource.cpu-vcores.vcores-multiple</name>
+    <value>2</value>
+    <description>Factor by which the number of vCores should be multiplied when making a container request.</description>
+</property>
+
+<property>
+    <name>yarn.nodemanager.resource.cpu-vcores.vcores-multiple.hyperthreading-enabled</name>
+    <value>4</value>
+    <description>Factor by which the number of vCores should be multiplied when making a container request with hyperthreading enabled.</description>
+</property>
+
+</configuration>

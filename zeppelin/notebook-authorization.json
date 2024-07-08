@@ -1,0 +1,344 @@
+{
+  "authInfo": {
+    "2K2K31WSY": {
+      "readers": [],
+      "owners": [],
+      "writers": [],
+      "runners": []
+    },
+    "2EYDJKFFY": {
+      "readers": [],
+      "owners": [],
+      "writers": [],
+      "runners": []
+    },
+    "2K11EE27P": {
+      "readers": [],
+      "owners": [
+        "richpas"
+      ],
+      "writers": [],
+      "runners": []
+    },
+    "2F7SKEHPA": {
+      "readers": [],
+      "owners": [],
+      "writers": [],
+      "runners": []
+    },
+    "2EZ66TM57": {
+      "readers": [],
+      "owners": [],
+      "writers": [],
+      "runners": []
+    },
+    "2EZ9G3JJU": {
+      "readers": [],
+      "owners": [],
+      "writers": [],
+      "runners": []
+    },
+    "2K36DHPGC": {
+      "readers": [],
+      "owners": [
+        "fdelatorre"
+      ],
+      "writers": [],
+      "runners": []
+    },
+    "2BWJFTXKJ": {
+      "readers": [],
+      "owners": [],
+      "writers": [],
+      "runners": []
+    },
+    "2BWJFTXKM": {
+      "readers": [],
+      "owners": [],
+      "writers": [],
+      "runners": []
+    },
+    "2C2AUG798": {
+      "readers": [],
+      "owners": [],
+      "writers": [],
+      "runners": []
+    },
+    "2K1DEC4ZR": {
+      "readers": [],
+      "owners": [],
+      "writers": [],
+      "runners": []
+    },
+    "2K1N24M2B": {
+      "readers": [],
+      "owners": [],
+      "writers": [],
+      "runners": []
+    },
+    "2K2XWMRX4": {
+      "readers": [
+        "richpas"
+      ],
+      "owners": [
+        "richpas"
+      ],
+      "writers": [
+        "richpas"
+      ],
+      "runners": [
+        "richpas"
+      ]
+    },
+    "2K4DUVBTB": {
+      "readers": [],
+      "owners": [
+        "ssosa"
+      ],
+      "writers": [],
+      "runners": []
+    },
+    "2BYEZ5EVK": {
+      "readers": [],
+      "owners": [],
+      "writers": [],
+      "runners": []
+    },
+    "2K1FVETX6": {
+      "readers": [],
+      "owners": [],
+      "writers": [],
+      "runners": []
+    },
+    "2K2U5C91H": {
+      "readers": [],
+      "owners": [
+        "richpas"
+      ],
+      "writers": [],
+      "runners": []
+    },
+    "2K2N9VDPR": {
+      "readers": [],
+      "owners": [
+        "dcantorin"
+      ],
+      "writers": [],
+      "runners": []
+    },
+    "2JZGJZ3ES": {
+      "readers": [],
+      "owners": [],
+      "writers": [],
+      "runners": []
+    },
+    "2K1492PZ8": {
+      "readers": [],
+      "owners": [
+        "dcantorin"
+      ],
+      "writers": [],
+      "runners": []
+    },
+    "2F8KN6TKK": {
+      "readers": [],
+      "owners": [],
+      "writers": [],
+      "runners": []
+    },
+    "2EYT7Q6R8": {
+      "readers": [],
+      "owners": [],
+      "writers": [],
+      "runners": []
+    },
+    "2K2NMGKUH": {
+      "readers": [],
+      "owners": [],
+      "writers": [],
+      "runners": []
+    },
+    "2F8VDBMMT": {
+      "readers": [],
+      "owners": [],
+      "writers": [],
+      "runners": []
+    },
+    "2F2AVWJ77": {
+      "readers": [],
+      "owners": [],
+      "writers": [],
+      "runners": []
+    },
+    "2EWM84JXA": {
+      "readers": [],
+      "owners": [],
+      "writers": [],
+      "runners": []
+    },
+    "2K3YH15GN": {
+      "readers": [],
+      "owners": [
+        "dcantorin"
+      ],
+      "writers": [],
+      "runners": []
+    },
+    "2K4CM76F2": {
+      "readers": [],
+      "owners": [
+        "richpas"
+      ],
+      "writers": [],
+      "runners": []
+    },
+    "2F1CHQ4TT": {
+      "readers": [],
+      "owners": [],
+      "writers": [],
+      "runners": []
+    },
+    "2GE79Y5FV": {
+      "readers": [],
+      "owners": [],
+      "writers": [],
+      "runners": []
+    },
+    "2K2UEABBV": {
+      "readers": [],
+      "owners": [
+        "ecaceres"
+      ],
+      "writers": [],
+      "runners": []
+    },
+    "2K26QD33F": {
+      "readers": [],
+      "owners": [],
+      "writers": [],
+      "runners": []
+    },
+    "2EW19CSPA": {
+      "readers": [],
+      "owners": [],
+      "writers": [],
+      "runners": []
+    },
+    "2JZVPY3RN": {
+      "readers": [
+        "dcantorin"
+      ],
+      "owners": [
+        "dcantorin"
+      ],
+      "writers": [
+        "dcantorin"
+      ],
+      "runners": [
+        "dcantorin"
+      ]
+    },
+    "2EZFM3GJA": {
+      "readers": [],
+      "owners": [],
+      "writers": [],
+      "runners": []
+    },
+    "2K1GN2FD1": {
+      "readers": [],
+      "owners": [],
+      "writers": [],
+      "runners": []
+    },
+    "2K4CGHQ5Z": {
+      "readers": [
+        "dcantorin"
+      ],
+      "owners": [
+        "dcantorin"
+      ],
+      "writers": [
+        "dcantorin"
+      ],
+      "runners": [
+        "dcantorin"
+      ]
+    },
+    "2K1G5Y4DA": {
+      "readers": [],
+      "owners": [],
+      "writers": [],
+      "runners": []
+    },
+    "2F2YS7PCE": {
+      "readers": [],
+      "owners": [],
+      "writers": [],
+      "runners": []
+    },
+    "2GB9HRSH9": {
+      "readers": [],
+      "owners": [],
+      "writers": [],
+      "runners": []
+    },
+    "2K2HKZUWS": {
+      "readers": [],
+      "owners": [
+        "fdelatorre"
+      ],
+      "writers": [],
+      "runners": []
+    },
+    "2EYD56B9B": {
+      "readers": [],
+      "owners": [],
+      "writers": [],
+      "runners": []
+    },
+    "2F4HJNWVN": {
+      "readers": [],
+      "owners": [],
+      "writers": [],
+      "runners": []
+    },
+    "2K2CUW35A": {
+      "readers": [
+        "dcantorin"
+      ],
+      "owners": [
+        "dcantorin"
+      ],
+      "writers": [
+        "dcantorin"
+      ],
+      "runners": [
+        "dcantorin"
+      ]
+    },
+    "2F5RKHCDV": {
+      "readers": [],
+      "owners": [],
+      "writers": [],
+      "runners": []
+    },
+    "2F1S9ZY8Z": {
+      "readers": [],
+      "owners": [],
+      "writers": [],
+      "runners": []
+    },
+    "2A94M5J1Z": {
+      "readers": [],
+      "owners": [],
+      "writers": [],
+      "runners": []
+    },
+    "2EYUV26VR": {
+      "readers": [],
+      "owners": [],
+      "writers": [],
+      "runners": []
+    }
+  }
+}
