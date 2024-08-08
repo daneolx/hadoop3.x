@@ -1,0 +1,4 @@
+/* Establecer el color del output a negro */
+.well, .well pre, .well code {
+    color: #000000 !important;
+}
